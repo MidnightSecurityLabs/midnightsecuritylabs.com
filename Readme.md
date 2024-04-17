@@ -1,5 +1,5 @@
 # Midnight Security Labs Site 🔥
-> https://midnightsecuritylabs.github.io/
+> https://midnightsecuritylabs.com/
 
 ## Sections 📚
 ✔️ About\
